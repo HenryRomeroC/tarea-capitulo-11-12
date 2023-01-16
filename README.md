@@ -389,16 +389,29 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 
 54.En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 R= 1/fc = 1/(8kHz)(100pf)= 1250k
----------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
 
 **4.VIDEOS**
+
+
+
+
+
+
+
+
+
 
 ------------------------------------------------------------------------------------------------------
 **5.CONCLUSIONES**
 
-En conclusion los metodos de resolucion desempeñan una forma simplificada para la resolucion de los ejercicios de circuitos electricos que requieren de un analisis especifico o mas profundo o por lo minimo mas rapidos, estos metodos dependeran de los tipos de ejercicio y del concepto del mismo asi creando una gran variedad de formas de resolucion.
 
---------------------------------------------------------------------------------------------------------
+a) Observar el comportamiento de la ondas senoidales esto puede ayudar a tener una nocion obteniendo graficas estadisticas fisica en el comportamiento de un circuito analizado.
+
+b) Tras la visualización capitulo 12 existieron nuevos componentes como el funcionamiento de los capacitores o sus partes haciendo de una suma utilidad de para que sirven y como pueden mejor en nuestros circuitos.
+
+-------------------------------------------------------------------------------------------------------
 **6.BIBLIOGRAFÍA**
 
 Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
